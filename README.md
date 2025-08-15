@@ -18,7 +18,7 @@ This repository contains notebooks and resources to build, train, and evaluate m
 
 - `.ipynb` files: Jupyter Notebooks with code and explanations.
 - `data/`: Folder for input datasets (may be ignored in version control).
-- `images/`: Visualizations and plots (optional).
+- `models/`: The model I trained first, if you would like to try beating it.
 - `requirements.txt` or `environment.yml`: Dependencies (if present).
 
 ## Getting Started
