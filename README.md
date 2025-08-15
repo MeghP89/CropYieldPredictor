@@ -48,7 +48,7 @@ This repository contains notebooks and resources to build, train, and evaluate m
 
 ## Usage
 
-- Open the notebooks and follow the step-by-step cells.
+- Open the notebooks starting with data and follow the step-by-step cells.
 - Modify code or parameters as needed to experiment with different models or datasets.
 - Results and visualizations will be generated within the notebooks.
 
