@@ -1,0 +1,14 @@
+name: CornYieldPredictor
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas>=1.5.0
+  - numpy>=1.25.0
+  - scikit-learn>=1.3.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.2
+  - pip
+  - pip:
+      # Optional: add any pip-only packages here
