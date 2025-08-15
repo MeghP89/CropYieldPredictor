@@ -10,7 +10,7 @@ This repository contains notebooks and resources to build, train, and evaluate m
 
 - **Data Exploration**: Analyze agricultural datasets with visualizations and statistics.
 - **Preprocessing**: Clean and prepare data for modeling.
-- **Model Training**: Implement and test various machine learning models (e.g., regression, decision trees, ensemble methods).
+- **Model Training**: Implement and test a Random Forest Model.
 - **Evaluation**: Assess model performance using appropriate metrics.
 - **Prediction**: Make yield predictions on new/unseen data.
 
